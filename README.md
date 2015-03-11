@@ -1,3 +1,2 @@
 # test-repo
-Demo
-*bullets
+I love :pizza:
